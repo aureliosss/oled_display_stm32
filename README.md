@@ -1,4 +1,4 @@
-# Oled Display and microcontriller STM32   🔧 🖥️ 📺 💡 
+# Oled Display and microcontroller STM32   🔧 🖥️ 📺 💡 
 
 ![image](https://github.com/aureliosss/oled_display_stm32/assets/84960010/e30636dd-d636-4ff4-84e7-e9b81c6eb961)
  
