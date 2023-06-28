@@ -1,8 +1,8 @@
 # Oled Display and microcontriller STM32   🔧 🖥️ 📺 💡 
 
-![image](https://github.com/aureliosss/oled_display_stm32/assets/84960010/26ded5c7-daad-4239-ab3a-eef9150ba03d)
-
-![test](https://github.com/aureliosss/oled_display_stm32/assets/84960010/5f23773d-769b-447f-a82d-20178ee85293)  
+![image](https://github.com/aureliosss/oled_display_stm32/assets/84960010/e30636dd-d636-4ff4-84e7-e9b81c6eb961)
+ 
+![test](https://github.com/aureliosss/oled_display_stm32/assets/84960010/466d7218-c6aa-45c6-b868-d7c7e06ece8c)
 
 STM32 Development with NUCLEO-L433RC-P and OLED Graphic Display
 
